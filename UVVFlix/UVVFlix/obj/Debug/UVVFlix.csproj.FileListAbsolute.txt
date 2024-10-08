@@ -1,0 +1,2 @@
+C:\Users\Usuário\Desktop\Projetos\UVVFlix\UVVFlix\obj\Debug\UVVFlix.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Projetos\UVVFlix\UVVFlix\obj\Debug\UVVFlix.csproj.CoreCompileInputs.cache
